@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 st.title(" Streamlit is working!")
-st.write("Hello Shraddha! Your Streamlit app is running successfully.")
+st.write("Hello Shivani! Your Streamlit app is running successfully.")
 
 st.title("My Data App")
 
